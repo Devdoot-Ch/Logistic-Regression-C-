@@ -1,0 +1,2 @@
+# Logistic Regression NumCpp
+NumCpp library by @dpilger26 was used to construct the logistic regression class. An instance of this class can be used to create and train a logistic regression model for binary classification. In order to build this class one can simply add the NumCpp include directory to their build system's include directories and build that way or follow the installation process mentioned at NumCpp’s GitHub repository.
